@@ -249,15 +249,15 @@ enableGitInfo = true
 
 
 
-#[[menu.main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 3
-
 [[menu.main]]
   name = "Resume"
-  url = "#projects"
-  weight = 2
+  url = "#Resume"
+  weight = 3
+
+#[[menu.main]]
+ # name = "Resume"
+  #url = "#projects"
+  #weight = 2
 
 #[[menu.main]]
 #  name = "Teaching"
