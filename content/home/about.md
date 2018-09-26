@@ -30,11 +30,9 @@ weight = 5
   course = "BSc in Artificial Intelligence"
   institution = "Massachusetts Institute of Technology"
   year = 2008
- 
+
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Mark Shimkets is a current Senior at Allegheny College with a Computer Science Major and an Economics Minor. During his education he has conducted research for the computer science department at Allegheny College, interned at Bull Moose Marketing, studied acting at the Stella Adler Studio of Acting in NYC, performed in 6 stage shows along with many improv comedy shows, written stand up comedy, and held leadership positions in many clubs on his campus. Mr. Shimkets hopes use his technical knowledge from computer science, his business knowledge from economics, and his people skills from acting to help break the perception of what a nerd can do.
