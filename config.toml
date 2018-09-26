@@ -9,7 +9,7 @@
 baseurl = "/"
 publishDir = "dist"
 # Title of your site
-title = "Shimkets"
+title = "Mark Shimkets"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -249,25 +249,25 @@ enableGitInfo = true
 
 
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
 
 [[menu.main]]
-  name = "Projects"
+  name = "Resume"
   url = "#projects"
-  weight = 4
+  weight = 2
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+#[[menu.main]]
+#  name = "Teaching"
+ # url = "#teaching"
+#  weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 3
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
