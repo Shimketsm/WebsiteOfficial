@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Analytical Work",
     "Information Technology",
-    "Coaching"
+    "Coaching",
     "Performing and creating"
   ]
 
