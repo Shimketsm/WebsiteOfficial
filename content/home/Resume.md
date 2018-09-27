@@ -25,5 +25,6 @@ count = 5
 #   1 = Detailed
 list_format = 1
 
-![] (ResumePng.png)
+
 +++
+![] (ResumePng.png)
