@@ -27,4 +27,4 @@ list_format = 1
 
 
 +++
-![](ResumePng.png)
+![Resume](img/ResumePng.png)
