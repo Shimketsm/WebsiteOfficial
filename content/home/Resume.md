@@ -24,5 +24,5 @@ count = 5
 #   0 = Simple
 #   1 = Detailed
 list_format = 1
-+++
 ![](static/img/ResumePng.png)
++++
